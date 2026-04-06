@@ -16,7 +16,7 @@
       </p>
     </td>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=dark" />
+      <img src="[https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=dark](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)"/>
       </td>
   </tr>
 </table>
