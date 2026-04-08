@@ -6,8 +6,8 @@
       <h3>🎂 About Me</h3>
       <ul>
         <li>🙋 Pronouns: She/Her</li>
-        <li>🧑‍💻 Project Engineer at **@Wipro**</li>
-        <li>🌱 Currently learning **Artificial Intelligence & Machine Learning**</li>
+        <li>🧑‍💻  I’m currently working with @Wipro as Project Engineer Engineer</li>
+        <li>🌱 Currently learning Artificial Intelligence & Machine Learning.</li>
       </ul>
       <h3>🤝 Connect with me:</h3>
       <p align="left">
